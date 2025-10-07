@@ -45,3 +45,11 @@ Transformar sinais de ECG em imagens, pré-processá-las e treinar um modelo de 
 - Os arquivos `.csv` devem estar na raiz do projeto:
   - `ptbdb_normal.csv`
   - `ptbdb_abnormal.csv`
+
+ 🚀 Como executar o projeto
+1. Instalar as dependências
+  - `pip install pandas matplotlib opencv-python tensorflow scikit-learn`
+
+2. Executar o script principal
+Na pasta do projeto, rode:
+  - `scriptunico.py`
