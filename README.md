@@ -41,7 +41,7 @@ Transformar sinais de ECG em imagens, pré-processá-las e treinar um modelo de 
 
 ## 📊 Dataset
 
-- [PTB Diagnostic ECG Database](https://physionet.org/content/ptbdb/1.0.0/)
+- [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 - Os arquivos `.csv` devem estar na raiz do projeto:
   - `ptbdb_normal.csv`
   - `ptbdb_abnormal.csv`
